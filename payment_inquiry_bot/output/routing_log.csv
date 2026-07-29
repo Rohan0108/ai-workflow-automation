@@ -1,0 +1,10 @@
+from,subject,action,detail,contract
+dispatch@bluearrowtransport.com,Payment status for CON-100234,REPLY,,CON-100234
+ap@northlinecarriers.com,When will we be paid?,REPLY,,CON-100241
+billing@summitfreight.com,Remittance query,REPLY,,CON-100255
+accounts@rapidhaul.com,Payment inquiry CON-100260,ROUTE,Carrier IT Support,CON-100260
+finance@maplerootfreight.com,Outstanding payment - CON-100288,ROUTE,Carrier IT Support,CON-100288
+ops@unknowncarrier.com,Payment status of CON-999999,ROUTE,Accounts Payable,
+dispatch@cedartransport.com,Has this been paid?,REPLY,,CON-100299
+driver@somecarrier.com,Payment question,ROUTE,Accounts Payable,
+newsletter@industrynews.com,This week in logistics: fuel prices and capacity,SKIP,Not a payment-status inquiry,

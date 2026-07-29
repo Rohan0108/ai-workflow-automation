@@ -1,0 +1,8 @@
+contract_number,carrier,status,amount,expected_pay_date,has_error
+CON-100234,Blue Arrow Transport,Paid,4820.00,2026-07-10,0
+CON-100241,Northline Carriers,Scheduled,3150.50,2026-08-05,0
+CON-100255,Summit Freight Co,Pending Approval,6740.00,2026-08-12,0
+CON-100260,Rapid Haul LLC,Scheduled,2290.75,2026-08-01,1
+CON-100272,Great Lakes Logistics,Paid,5110.00,2026-07-22,0
+CON-100288,Maple Route Freight,On Hold,3980.00,2026-08-20,1
+CON-100299,Cedar Transport,Scheduled,4425.00,2026-08-08,0

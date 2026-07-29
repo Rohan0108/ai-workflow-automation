@@ -1,0 +1,47 @@
+[
+  {
+    "from": "dispatch@bluearrowtransport.com",
+    "subject": "Payment status for CON-100234",
+    "body": "Hi team, can you confirm whether payment for contract CON-100234 has been released? Thanks."
+  },
+  {
+    "from": "ap@northlinecarriers.com",
+    "subject": "When will we be paid?",
+    "body": "Following up on the outstanding payment for CON 100241. Please advise the expected date."
+  },
+  {
+    "from": "billing@summitfreight.com",
+    "subject": "Remittance query",
+    "body": "What is the status of invoice tied to CON-100255? It still shows unpaid on our side."
+  },
+  {
+    "from": "accounts@rapidhaul.com",
+    "subject": "Payment inquiry CON-100260",
+    "body": "Requesting the payment status for contract CON-100260."
+  },
+  {
+    "from": "finance@maplerootfreight.com",
+    "subject": "Outstanding payment - CON-100288",
+    "body": "Please confirm when the remittance for CON-100288 will be settled."
+  },
+  {
+    "from": "ops@unknowncarrier.com",
+    "subject": "Payment status of CON-999999",
+    "body": "Checking on the payment status for contract CON-999999."
+  },
+  {
+    "from": "dispatch@cedartransport.com",
+    "subject": "Has this been paid?",
+    "body": "Can you let me know the payment status? Our reference is CON-100299."
+  },
+  {
+    "from": "driver@somecarrier.com",
+    "subject": "Payment question",
+    "body": "Hi, wanted to check when our latest load will be paid. I don't have the contract number handy."
+  },
+  {
+    "from": "newsletter@industrynews.com",
+    "subject": "This week in logistics: fuel prices and capacity",
+    "body": "Read our weekly roundup of freight market trends and carrier news."
+  }
+]
